@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 # Ignoring the Temp folder that is a 2019.3 thing?
 Temp/
+
+# Ignoring screen recordings
+*.mp4
