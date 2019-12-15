@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignoring the Temp folder that is a 2019.3 thing?
+Temp/
